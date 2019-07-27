@@ -1,0 +1,20 @@
+form {
+    padding: 30px;  
+}
+
+section {
+    margin-left: 160px;
+}
+
+h2 {
+    padding: 20px 0 20px 30px;
+}
+
+button {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 8px 18px;
+    margin-top: 8px;
+    border: none;
+    width: 100px;
+}
