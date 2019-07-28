@@ -23,7 +23,6 @@ header {
     justify-content: space-between;
     align-items: center;
     background-color: #ffffff;
-    padding: 0 160px;
 }
 
 nav {
@@ -44,11 +43,12 @@ section {
 
 .container {
     border-bottom: 2px solid #cccccc;
-    padding: 50px;
+    padding: 40px;
 }
 
 .self {
-    width: 200px;
+    width: 100%;
+    max-width: 100%;
     padding-top: 20px;
 }
 
@@ -65,8 +65,6 @@ p {
     line-height: 1.5;
     padding: 20px;
 }
-
-
 
 footer {
     background-color: #777777;
