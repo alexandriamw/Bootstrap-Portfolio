@@ -17,15 +17,7 @@ h1 {
 }
 
 header {
-    width: 100%;
     margin: auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #ffffff;
-}
-
-nav {
     background-color: #ffffff;
 }
 
@@ -62,7 +54,6 @@ h2 {
 
 p {
     color: #777777;
-    line-height: 1.5;
     padding: 20px;
 }
 
@@ -85,4 +76,13 @@ h6 {
     font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
     font-size: 0.67em;
     font-weight: bold;
+}
+
+button {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 8px 18px;
+    margin-top: 8px;
+    border: none;
+    width: 100px;
 }
